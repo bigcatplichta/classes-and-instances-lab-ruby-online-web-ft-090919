@@ -4,6 +4,6 @@ class Dog
   end 
 end 
 
-booker = Dog.new 
+fido = Dog.new 
 bixby = Dog.new 
 bella = Dog.new 
